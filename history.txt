@@ -1,4 +1,4 @@
 2019.08.13
 开始重新设计网站，编写了最初级的框架。
 2019.08.14
-增加"crossdomain.xml"跨域访问文件，更新网站名称为“★Hello,World!★”，增加了"README.md"的初步编写。
+增加"crossdomain.xml"跨域访问文件，更新网站名称为“★Hello,World!★”，增加了"README.md"的初步编写，增加版权信息。
